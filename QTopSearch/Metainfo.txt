@@ -1,0 +1,19 @@
+
+Name of Quantlet: QTopSearch
+
+Published in: GitHub API based QuantNet Mining infrastructure in R, Section "Google Analytics"
+
+Description: 'Retrieves the most frequent search queries entered into the search field of the QuantNet visualization, called QuantNetXploRer.
+After every keystroke the search queries are tracked via Google Analytics.
+For better analysis, search queries with less than 3 characters are omitted.
+The API query specifies the parameters dimensions, metrics and filters conditioning the desired Event Tracking criteria.'
+
+Keywords: Google Analytics, API, RGoogleAnalytics, Web Metrics, data mining, QuantNet, QuantNetXploRer, search queries, analysis, statistics
+
+See also: DownloadsByCountry, TopDownloads
+
+Author: Lukas Borke
+
+Submitted: 18.02.2017 by Lukas Borke
+
+Example: QTopSearch_trimmed.md
