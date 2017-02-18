@@ -28,6 +28,54 @@ Example : QTopSearch_trimmed.md
 
 ```
 
+|SearchQuery  | frequency|
+|:------------|---------:|
+|(not set)    |       780|
+|sfe          |       111|
+|MVA          |        94|
+|SMS          |        53|
+|bor          |        45|
+|borke        |        45|
+|SFE          |        42|
+|ming         |        42|
+|mmstat       |        41|
+|mms          |        37|
+|min          |        36|
+|mva          |        36|
+|SMSlinregcar |        35|
+|mingy        |        35|
+|mmsta        |        35|
+|LDA          |        30|
+|TENET        |        26|
+|mmst         |        26|
+|bork         |        25|
+|gen          |        25|
+|gensi        |        25|
+|VaR          |        24|
+|pele         |        24|
+|covar        |        22|
+|trim         |        21|
+|CoVaR        |        19|
+|mingyan      |        19|
+|multivariate |        19|
+|sfe_         |        19|
+|value        |        19|
+|GUO          |        18|
+|applied      |        18|
+|sfs          |        18|
+|tedas        |        18|
+|xfg          |        18|
+|CoV          |        17|
+|mingya       |        17|
+|byko         |        16|
+|copula       |        16|
+|lin          |        16|
+|SFEVaRbank   |        15|
+|byk          |        15|
+|cop          |        15|
+|cov          |        15|
+|regression   |        15|
+
 
 ### R Code:
 ```r
