@@ -13,7 +13,7 @@ It is part of the following work:
 }
 ```
 
-I greatly appreciate the followong R package:
+I greatly appreciate the following R package:
 
 ```
 @Manual{RGoogleAnalytics,
